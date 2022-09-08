@@ -18,6 +18,14 @@ basic usage check https://www.overleaf.com/learn/latex/Tutorials learn latex in 
 
 warmly suggestion:
 to insert code samples, consider using minted package
+
+## Before starting your homework:
+
+1. modify the default name and student id in the homework.text file.
+2. while working your assignment, make sure you don't copy the question body into the file. We only need you solution.
+3. if you're not familiar with latex, read the homework.tex, especially contents within the \begin{homeworkProblem} label. You'll learn how to insert images, writing equations, formulas, and some useful skill to orgnize your solutions neat and clean.
+
+
 ## Features
 
 Here are just a few features of this homework template.
