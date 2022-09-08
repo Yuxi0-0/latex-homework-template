@@ -1,7 +1,15 @@
 latex-homework-template
 =======================
 
-The LaTeX file that I use as the base for all my homeworks in university. You should follow [me on Twitter][twitter].
+This is a simple latex tempate for students' homework.
+
+
+YOU DON'T need to download any compiler(latex toolkits), Just follow steps below:
+
+1. registered yourself to an online latex editor:https://www.overleaf.com/.
+2. Fork this repo to your own github account.(uppper right of this page Fork)
+3. Back to overleaf, start a new project, choose to import this repo from github.
+4. You can now be able to typesetting using latex.
 
 ## Features
 
