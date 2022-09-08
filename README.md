@@ -11,6 +11,10 @@ YOU DON'T need to download any compiler(latex toolkits), Just follow steps below
 3. Back to overleaf, start a new project, choose to import this repo from github.
 4. You can now be able to typesetting using latex.
 
+Some useful sources:
+math symbols https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
+basic usage check https://www.overleaf.com/learn/latex/Tutorials learn latex in 30mins
+
 ## Features
 
 Here are just a few features of this homework template.
