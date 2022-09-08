@@ -13,8 +13,11 @@ YOU DON'T need to download any compiler(latex toolkits), Just follow steps below
 
 Some useful sources:
 math symbols https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
+
 basic usage check https://www.overleaf.com/learn/latex/Tutorials learn latex in 30mins
 
+warmly suggestion:
+to insert code samples, consider using minted package
 ## Features
 
 Here are just a few features of this homework template.
