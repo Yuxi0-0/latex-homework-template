@@ -26,7 +26,7 @@
 
 \pagestyle{fancy}
 \lhead{\hmwkAuthorName}
-\chead{\ \hmwkTitle}
+\chead{\hmwkTitle}
 \rhead{\firstxmark}
 \lfoot{\lastxmark}
 \cfoot{\thepage}
@@ -221,7 +221,7 @@
     example, the remainder of 2 would correlate to state \(q_2\) because \(7
     \mod 5 = 2\).
 
-    \begin{figure}[h]
+    \begin{figure}[htp]
         \centering
         \begin{tikzpicture}[shorten >=1pt,node distance=2cm,on grid,auto]
             \node[state, accepting, initial] (q_0)   {$q_0$};
@@ -286,7 +286,7 @@
 \begin{homeworkProblem}
     Write part of \alg{Quick-Sort($list, start, end$)}
 
-    \begin{algorithm}[]
+    \begin{algorithm}[htp]
         \begin{algorithmic}[1]
             \Function{Quick-Sort}{$list, start, end$}
                 \If{$start \geq end$}
