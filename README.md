@@ -9,7 +9,7 @@ YOU DON'T need to download any compiler(latex toolkits), Just follow steps below
 1. registered yourself to an online latex editor:https://www.overleaf.com/.
 2. Fork this repo to your own github account.(uppper right of this page Fork)
 3. Back to overleaf, start a new project, choose to import this repo from github.
-4. You can now be able to typesetting using latex.
+4. Now you are able to typesetting using latex.
 
 Some useful sources:
 math symbols https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
@@ -22,8 +22,8 @@ to insert code samples, consider using minted package
 ## Before starting your homework:
 
 1. modify the default name and student id in the homework.text file.
-2. while working your assignment, make sure you don't copy the question body into the file. We only need you solution.
-3. if you're not familiar with latex, read the homework.tex, especially contents within the \begin{homeworkProblem} label. You'll learn how to insert images, writing equations, formulas, and some useful skill to orgnize your solutions neat and clean.
+2. while working on your assignment, make sure you don't copy the question body into the file. We only need your solution.
+3. if you're not familiar with latex, read the homework.tex, especially contents within the \begin{homeworkProblem} label. You'll learn how to insert images, writing equations, formulas, and some useful skills to orgnize your solutions in a neat and clean way. 
 
 
 ## Features
